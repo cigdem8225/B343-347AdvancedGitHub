@@ -34,6 +34,9 @@ public class myClass {
     //Conflict example, v7
     public String string11 = "Eski koprunun altinda";
 
+    //Conflict example, t6
+    public String string12 = "Bu aksam olurum kimse beni tutamaz";
+
 
 
 
