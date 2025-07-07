@@ -18,4 +18,10 @@ public class myClass {
     // version v4
     public String string6 = "Bu da cok daha baambaşka bir string tir";
 
+    // version v5
+    public String string7 = " Tarabya" ;
+
+
+
+
 }
