@@ -31,4 +31,5 @@ public class myClass {
     //Techpro branch, version t5
     public String string10 = "Affet beni aksam ustu";
 
+
 }
