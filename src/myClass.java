@@ -16,5 +16,4 @@ public class myClass {
     public String string5 = "Bu techpro branch ınde olusturulan baska bir stringtir.";
 
 
-
 }
