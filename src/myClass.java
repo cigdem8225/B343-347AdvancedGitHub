@@ -18,4 +18,10 @@ public class myClass {
     // version v4
     public String string6 = "Bu da cok daha baambaşka bir string tir";
 
+    //techpro branch version t3
+    public String string7 = "Hangi string oldugunun hesabıı yapamadım";
+
+
+
+
 }
